@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML and Data Science projects**
 
-- 💬 Ask me about **Data's, Visualization**
+- 💬 Ask me about **Data's, Visualization, ML**
 
 - 📫 How to reach me **arunambrose2004@gmail.com**
 
