@@ -11,7 +11,7 @@
 
 -  How to reach me **arunambrose2004@gmail.com**
 
--  Fun fact **I read Books and Notes 😅**
+-  Fun fact **I read Books and Notes lot😅**
 
 
 <h3 align="left">Connect with me:</h3>
