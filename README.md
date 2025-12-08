@@ -20,5 +20,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,ai,wordpress,bootstrap)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,ai,wordpress,bootstrap)](https://skillicons.dev)</br><br>
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,notion,flask,mysql,postgres,vscode)](https://skillicons.dev)
