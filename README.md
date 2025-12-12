@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambrose</h1>
-<h3 align="center">A Passionate and Enthusiastic Data Analyst, ML Researcher and Python developer</h3>
+<h3 align="center">A Passionate and Enthusiastic Data Analyst, ML Researcher and Python </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="ambrose-kutti" /> </p>
 
