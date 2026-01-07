@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ambrose</h1>
-<h3 align="center">A Passionate and Enthusiastic Data Analyst, ML Researcher and Python </h3>
+<h1 align="center">Hello there 👋, I'm Ambrose</h1>
+<h3 align="center">A Passionate and Enthusiastic Data Analyst, ML & AI Researcher and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="ambrose-kutti" /> </p>
 
@@ -11,7 +11,7 @@
 
 -  How to reach me **arunambrose2004@gmail.com**
 
--  Fun fact **I read Books and Notes lot😅**
+-  Fun fact **I read Books and take Notes a lot😅**
 
 
 <h3 align="left">Connect with me:</h3>
