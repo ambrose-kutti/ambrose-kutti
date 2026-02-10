@@ -1,81 +1,94 @@
-<h1 align="center">Hi 👋, I'm Ambrose</h1>
-<h3 align="center">A Passionate and Enthusiastic Data Analyst, ML & AI Researcher and Python Developer</h3>
+# Hi 👋, I'm Ambrose
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="ambrose-kutti" /> </p>
+A passionate Data Analyst, ML & AI researcher, and Python developer. I build data-driven solutions, prototypes, and research experiments — currently focusing on Retrieval-Augmented Generation (RAG) chatbots and TensorFlow-based models. Explore this profile for my projects, skills, and ways to connect.
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ambrose-kutti" alt="ambrose-kutti" /></a> 
+<img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+<!-- Profile badges -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ambrose-kutti" alt="Trophies" />
 </p>
 
-- 🔭 I’m currently working on **RAG Chatbot**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ambrose-kutti&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrose-kutti&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambrose-kutti&" alt="Streak stats" />
+</p>
 
-- 🌱 I’m currently learning **TensorFlow, RAG, AI**
 
-- 👯 I’m looking to collaborate on **AI/ML and Data Science projects**
 
-- 💬 Ask me about **Data's, Visualization, ML, AI**
+## What I do
 
-- 📫 How to reach me **arunambrose2004@gmail.com**
+- 🔭 Currently working on: **RAG Chatbot** — researching retrieval pipelines and answer generation.
+- 🌱 Learning: **TensorFlow**, **RAG** techniques, and applied **AI** workflows.
+- 👯 Open to collaboration on: **AI/ML**, **data science**, and visualization projects.
+- 💬 Ask me about: data analysis, visualization, ML model development, and Python tooling.
 
-<h3 align="left">Connect with me:</h3>
+
+
+## Tech / Languages & Tools
+
+- Languages: Python, SQL, HTML/CSS
+- ML / Data: TensorFlow, scikit-learn, pandas, seaborn, OpenCV
+- Web / Backend: Flask, Firebase
+- Dev & Tools: Git, PostgreSQL, Postman, Chart.js, Bootstrap
+
+Icons:
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+</p>
+
+
+
+## Featured Projects
+
+- RAG Chatbot — Research & prototype for retrieval-augmented conversational agent.
+- Carbon Emission System - An Real-time Carbon Emission Prediction to understand about your vechile emission. 
+
+
+
+## Connect with me
+
+- Email: [arunambrose2004@gmail.com](mailto:arunambrose2004@gmail.com)
+- LinkedIn: https://linkedin.com/in/arun-ambrose-s
+- Kaggle: https://kaggle.com/ambrosekuttii04
+
+Social icons:
+
 <p align="left">
-<a href="https://linkedin.com/in/arun-ambrose-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-ambrose-s" height="30" width="40" /></a>
-<a href="https://kaggle.com/ambrosekuttii04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambrosekuttii04" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arun-ambrose-s" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/ambrosekuttii04" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-</p>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  </p>
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a> 
-  </p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrose-kutti&show_icons=true&locale=en&layout=compact" alt="ambrose-kutti" /></p>
+## Contributing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrose-kutti&show_icons=true&locale=en" alt="ambrose-kutti" /></p>
+Thanks for your interest! If you'd like to collaborate or contribute to any repo linked here:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambrose-kutti&" alt="ambrose-kutti" /></p>
+- Open an issue to propose changes or start a discussion.
+- Fork the repository, create a feature branch, and submit a pull request.
+
+If you want to collaborate on research or projects, please contact me via LinkedIn or email.
+
+
+
+## License
+
+This profile content is free to read.
+
+
+## GitHub Stats
+
+(Already displayed near the top for visibility; kept here for reference.)
+
+
+
+## Support / Feedback
+
+If you find my work useful or want to provide feedback, please reach out by email or open an issue in the relevant repository. I appreciate constructive feedback and collaboration offers.
+
