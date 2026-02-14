@@ -5,16 +5,10 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <!-- Profile badges -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ambrose-kutti" alt="Trophies" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambrose-kutti&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrose-kutti&layout=compact" alt="Top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambrose-kutti&" alt="Streak stats" />
 </p>
-
 
 
 ## What I do
@@ -74,7 +68,6 @@ Thanks for your interest! If you'd like to collaborate or contribute to any repo
 - Fork the repository, create a feature branch, and submit a pull request.
 
 If you want to collaborate on research or projects, please contact me via LinkedIn or email.
-
 
 
 ## License
