@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ambrose
+# Hello There 👋, I'm Ambrose
 
 A passionate Data Analyst, ML & AI researcher, and Python developer. I build data-driven solutions, prototypes, and research experiments — currently focusing on Retrieval-Augmented Generation (RAG) chatbots and TensorFlow-based models. Explore this profile for my projects, skills, and ways to connect.
 
