@@ -13,9 +13,9 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 
 ## What I do
 
-- 🔭 Currently working on: **RAG Chatbot** — researching retrieval pipelines and answer generation.
+- 🔭 Currently working on: **RAG Chatbot** — researching retrieval pipelines and answer generations.
 - 🌱 Learning: **TensorFlow**, **RAG** techniques, and applied **AI** workflows.
-- 👯 Open to collaboration on: **AI/ML**, **data science**, and visualization projects.
+- 👯 Open to collaboration on: **AI/ML**, **data science**, and **visualization projects**.
 - 💬 Ask me about: data analysis, visualization, ML model development, and Python tooling.
 
 
