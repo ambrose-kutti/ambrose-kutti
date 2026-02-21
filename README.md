@@ -2,7 +2,7 @@
 
 A passionate Data Analyst, ML & AI researcher, and Python developer. I build data-driven solutions, prototypes, and research experiments — currently focusing on Retrieval-Augmented Generation (RAG) chatbots and TensorFlow-based models. Explore this profile for my projects, skills, and ways to connect.
 
-<img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 
 <!-- Profile badges -->
 
@@ -17,8 +17,6 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 - 🌱 Learning: **TensorFlow**, **RAG** techniques, and applied **AI** workflows.
 - 👯 Open to collaboration on: **AI/ML**, **data science**, and **visualization projects**.
 - 💬 Ask me about: data analysis, visualization, ML model development, and Python tooling.
-
-
 
 ## Tech / Languages & Tools
 
