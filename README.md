@@ -75,7 +75,6 @@ This profile content is free to read.
 (Already displayed near the top for visibility; kept here for reference.)
 
 
-
 ## Support / Feedback
 
 If you find my work useful or want to provide feedback, please reach out by email or open an issue in the relevant repository. I appreciate constructive feedback and collaboration offers.
