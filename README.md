@@ -65,7 +65,6 @@ Thanks for your interest! If you'd like to collaborate or contribute to any repo
 
 If you want to collaborate on research or projects, please contact me via LinkedIn or email.
 
-
 ## License
 
 This profile content is free to read.
