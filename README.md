@@ -23,7 +23,7 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 - Web / Backend: Fast API, Firebase
 - Dev & Tools: Git, PostgreSQL, Postman, Chart.js, Bootstrap
 
-Icons:
+## Icons:
 
 <p align="left"> 
 
@@ -38,8 +38,6 @@ Icons:
     
 </p>
 
-
-
 ## Featured Projects
 
 - **RAG Chatbot** : Research & prototype for retrieval-augmented conversational agent.
@@ -53,7 +51,7 @@ Icons:
 - LinkedIn: https://linkedin.com/in/arun-ambrose-s
 - Kaggle: https://kaggle.com/ambrosekuttii04
 
-Social icons:
+## Social icons:
 
 <p align="left">
   <a href="https://linkedin.com/in/arun-ambrose-s" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -75,7 +73,6 @@ If you want to collaborate on research or projects, please contact me via Linked
 ## License
 
 This profile content is free to read.
-
 
 ## GitHub Stats
 
