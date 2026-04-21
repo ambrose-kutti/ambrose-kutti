@@ -18,10 +18,10 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 
 ## Tech / Languages & Tools
 
-- Languages: Python, SQL, HTML/CSS
-- ML / Data: TensorFlow, scikit-learn, pandas, seaborn, OpenCV
-- Web / Backend: Fast API, Firebase
-- Dev & Tools: Git, PostgreSQL, Postman, Chart.js, Bootstrap
+- Languages - Python, SQL, HTML/CSS
+- ML / Data -  TensorFlow, scikit-learn, pandas, seaborn, OpenCV
+- Web / Backend -  Fast API, Firebase
+- Dev & Tools -  Git, PostgreSQL, Postman, Chart.js, Bootstrap
 
 ## Icons:
 
