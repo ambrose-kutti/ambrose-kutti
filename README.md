@@ -4,7 +4,6 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
  
 <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambrose-kutti&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
