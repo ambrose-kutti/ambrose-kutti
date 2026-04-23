@@ -34,7 +34,8 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 
 ## Featured Projects
 
-- **RAG Chatbot** : Research & prototype for retrieval-augmented conversational agent.
+- **RAG Chatbot** :
+    - Research & prototype for retrieval-augmented conversational agent.
 - **Carbon Emission System**: An Real-time Carbon Emission Prediction to understand about your vechile emission and suggestions.
 - **An Advanced AI Registration System** : A Real-time AI registration system where the user's face details are stored in Embeddings and can be used for detection/ Production ahead purposes.
 
