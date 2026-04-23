@@ -22,12 +22,6 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 - Web / Backend -  Fast API, Firebase
 - Dev & Tools -  Git, PostgreSQL, Postman, Chart.js, Bootstrap
 
-## Icons:
-
-
-
-
-
 ## Featured Projects
 
 - **RAG Chatbot** :
