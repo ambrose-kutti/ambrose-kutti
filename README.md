@@ -38,9 +38,6 @@ A passionate Data Analyst, ML & AI researcher, and Python developer. I build dat
 - LinkedIn: https://linkedin.com/in/arun-ambrose-s
 - Kaggle: https://kaggle.com/ambrosekuttii04
 
-## Social icons:
-
-
 ## Contributing
 
 Thanks for your interest! If you'd like to collaborate or contribute to any repo linked here:
