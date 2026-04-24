@@ -28,7 +28,7 @@ I love diving into new technologies, understanding complex systems, and contribu
 -   🔭 Working on: **RAG** — researching retrieval pipelines and answer generations.
 -   🌱 Learning: **TensorFlow**, **RAG** techniques, and applied **AI** workflows.
 -   👯 Looking to collaborate on: **AI/ML**, **Data Science**, and **Visualization Projects**.
--   💬 Ask me about: **Web development basics, Python scripting, or problem-solving approaches.** <!-- TODO: Add your areas of expertise -->
+-   💬 Ask me about: **Web development basics, Python scripting, or problem-solving approaches.** 
 -   ⚡ Fun fact: **I love exploring new hiking trails in my free time!** <!-- TODO: Add a fun fact -->
 
 -   
