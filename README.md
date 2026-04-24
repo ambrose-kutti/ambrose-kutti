@@ -25,7 +25,7 @@ I love diving into new technologies, understanding complex systems, and contribu
 
 ## 🎯 Current Focus
 
--   🔭 Working on: **Academic projects focused on web development and data structures.** <!-- TODO: Add your current main project -->
+-   🔭 Working on: **RAG** — researching retrieval pipelines and answer generations.
 -   🌱 Learning: **Advanced JavaScript, React, and exploring cloud fundamentals (AWS/GCP).** <!-- TODO: Add what you're currently learning -->
 -   👯 Looking to collaborate on: **Beginner-friendly Open Source Projects & study groups.**
 -   💬 Ask me about: **Web development basics, Python scripting, or problem-solving approaches.** <!-- TODO: Add your areas of expertise -->
