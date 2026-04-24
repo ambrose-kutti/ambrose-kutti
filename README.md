@@ -10,18 +10,16 @@
 
 ## 👨‍💻 About Me
 
-I'm Ambrose, an enthusiastic and dedicated developer currently pursuing my studies at **Sri Ramakrishna Institute of Technology (SRIT)** in Coimbatore, Tamil Nadu. My journey into the world of technology began with a curiosity for how things work, and it quickly evolved into a passion for building, creating, and solving problems with code.
+I'm Ambrose, a passionate Data Analyst, ML & AI researcher, and Python developer. I build data-driven solutions, prototypes, and research experiments — currently focusing on Retrieval-Augmented Generation (RAG) chatbots and TensorFlow-based models.
+
+My journey into the world of technology began with a curiosity for how things work, and it quickly evolved into a passion for building, creating, and solving problems with code.
 
 I love diving into new technologies, understanding complex systems, and contributing to projects that make a difference. My GitHub profile is a reflection of my learning journey, featuring academic projects, personal explorations, and my initial steps into the open-source community. I'm always eager to collaborate, learn from others, and grow as a developer.
 
 ---
 
-## 🚀 Quick GitHub Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambrose-kutti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrose-kutti&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambrose-kutti&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ---
 
@@ -32,6 +30,18 @@ I love diving into new technologies, understanding complex systems, and contribu
 -   👯 Looking to collaborate on: **Beginner-friendly Open Source Projects & study groups.**
 -   💬 Ask me about: **Web development basics, Python scripting, or problem-solving approaches.** <!-- TODO: Add your areas of expertise -->
 -   ⚡ Fun fact: **I love exploring new hiking trails in my free time!** <!-- TODO: Add a fun fact -->
+
+-   
+## 🚀 Quick GitHub Insights
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambrose-kutti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrose-kutti&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+
 
 ---
 
@@ -66,8 +76,7 @@ I love diving into new technologies, understanding complex systems, and contribu
   <img src="https://github-profile-trophy.vercel.app/?username=ambrose-kutti&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambrose-kutti&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
 
 ### 🔥 Streak Statistics
 <p align="center">
