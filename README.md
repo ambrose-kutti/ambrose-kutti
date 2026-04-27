@@ -51,13 +51,13 @@ problem-solving approaches*
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F7DF1E?style=for-the-badge&logo=git&logoColor=black)
-![](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=CSS&logoColor=white)
 
 ###  🚀 ML and Others
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-4479A1?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-F05032?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-F7DF1E?style=for-the-badge&logo=seaborn&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-ED8B00?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🚀 Frameworks and Libraries
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
