@@ -108,9 +108,6 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  TODO: Add your portfolio -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunambrose2004@gmail.com) 
 
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/ambrose-kutti?style=social)](https://github.com/ambrose-kutti)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
 
 </div>
 
