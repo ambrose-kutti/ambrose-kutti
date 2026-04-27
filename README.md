@@ -131,10 +131,8 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 -   🚀 **[Local Hackathon]**: Collaborated on a team project, handled front-end development (HTML/CSS/JS)
 
 ---
----
 
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+ ## 🚀 "Code is poetry, and every commit tells a story"
+  
+<sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
