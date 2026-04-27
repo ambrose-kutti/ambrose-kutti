@@ -54,7 +54,12 @@ problem-solving approaches*
 ![GIT](https://img.shields.io/badge/GIT-F7DF1E?style=for-the-badge&logo=git&logoColor=black)
 ![](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=CSS&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+###  🚀 ML and Others
+![TensorFlow](https://img.shields.io/badge/Tensorflow-4479A1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikitlearn-F05032?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🚀 Frameworks and Libraries
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
