@@ -42,7 +42,7 @@ problem-solving approaches*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-###  🚀 ML and Others
+###  🚀 Machine Learning and Data Science
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-4479A1?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-F05032?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white)
