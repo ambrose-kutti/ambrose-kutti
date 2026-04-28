@@ -21,7 +21,7 @@ I love diving into new technologies, understanding complex systems, and contribu
 ---
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambrose-kutti&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambrose-kutti&theme=gruvbox&bg_color=1e1e1e&color=ff9800&line=f44336&point=ffeb3b&area=true&hide_border=true"/>
 
 ---
 
