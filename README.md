@@ -49,13 +49,13 @@ problem-solving approaches*
 ![Seaborn](https://img.shields.io/badge/seaborn-F7DF1E?style=for-the-badge&logo=seaborn&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-ED8B00?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🎨 Web Development Frameworks & Libraries
+### 🎨 Web Development Frameworks and  Libraries
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Chart.js](https://img.shields.io/badge/chart.js-43853D?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases and Tools
 ![Postgres SQL](https://img.shields.io/badge/postgresSQL-4479A1?style=for-the-badge&logo=postgressql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white)
