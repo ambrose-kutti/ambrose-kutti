@@ -126,11 +126,6 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 -   🌟 Build a full-stack application with a modern framework (React/Vue)
 -   📝 Start writing technical blogs about my learning journey
 
-## 💡 Early Contributions & Explorations
--   🔧 **[Community Forum]**: Participated in discussions, helped new users with basic setup
--   🌟 **[Learning Repository]**: Contributed code snippets, improved documentation for a small utility tool
--   🚀 **[Local Hackathon]**: Collaborated on a team project, handled front-end development (HTML/CSS/JS)
-
 ---
 
  ## 🚀 "Code is poetry, and every commit tells a story"
