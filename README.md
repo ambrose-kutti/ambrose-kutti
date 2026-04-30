@@ -36,7 +36,9 @@ I love diving into new technologies, understanding complex systems, and contribu
 -   👯 Looking to collaborate on:
 
     **AI/ML**, **Data Science**, and **Visualization Projects**.
--   💬 Ask me about: *Data Analysis, Visualization, ML Model Development, and Python tooling.
+-   💬 Ask me about:
+
+    *Data Analysis, Visualization, ML Model Development, and Python tooling.
 problem-solving approaches*
 -   ⚡ Fun fact: **I love exploring new hiking trails in my free time!** <!-- TODO: Add a fun fact -->
 
