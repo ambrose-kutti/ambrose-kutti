@@ -86,9 +86,6 @@ problem-solving approaches*
 
 ### 🍃 [Carbon-Prediction-System](https://github.com/ambrose-kutti/Carbon-Prediction-System) 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=Carbon-Prediction-System&theme=transparent)](https://github.com/ambrose-kutti/Carbon-Prediction-System)
-
-
 **Tech Stack:** Python, Pandas, NumPy, ML ,etc.,
 
 *A lightweight system designed to estimate and predict carbon emissions using simple, modular components.*
