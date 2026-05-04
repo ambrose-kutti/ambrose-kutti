@@ -86,7 +86,7 @@ problem-solving approaches*
 
 ### 🍃 [Carbon-Prediction-System](https://github.com/ambrose-kutti/Carbon-Prediction-System) 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=Carbon-Prediction-System&theme=github_light&bg_color=fafafa&title_color=2e86de&text_color=333&icon_color=ff9800)](https://github.com/ambrose-kutti/Carbon-Prediction-System)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=Carbon-Prediction-System&theme=transparent)](https://github.com/ambrose-kutti/Carbon-Prediction-System)
 
 
 **Tech Stack:** Python, Pandas, NumPy, ML ,etc.,
