@@ -84,12 +84,13 @@ problem-solving approaches*
 
 <div align="center">
 
-### 🌟 [Web-Based Calculator](https://github.com/ambrose-kutti/web-calculator-project) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=web-calculator-project&theme=tokyonight)](https://github.com/ambrose-kutti/web-calculator-project)
+### 🍃 [Carbon-Prediction-System](https://github.com/ambrose-kutti/Carbon-Prediction-System) 
 
-**Tech Stack:** HTML • CSS • JavaScript
-**Status:** ✅ Complete | ⭐ 5+ Stars | 🍴 2+ Forks
-*A simple yet functional web-based calculator demonstrating fundamental front-end skills.*
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=Carbon-Prediction-System&theme=tokyonight)](https://github.com/ambrose-kutti/Carbon-Prediction-System)
+
+**Tech Stack:** Python, Pandas, NumPy, ML ,etc.,
+
+*A lightweight system designed to estimate and predict carbon emissions using simple, modular components.*
 
 ---
 
