@@ -92,7 +92,7 @@ problem-solving approaches*
 
 ---
 
-### 🔥 [Basic Python Data Analysis Tool](https://github.com/ambrose-kutti/python-data-tool) <!-- TODO: Replace with actual project -->
+### 🔥 [n8n-news-digest](https://github.com/ambrose-kutti/python-data-tool) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=python-data-tool&theme=tokyonight)](https://github.com/ambrose-kutti/python-data-tool)
 
 **Tech Stack:** Python • Pandas • Matplotlib
