@@ -92,11 +92,10 @@ problem-solving approaches*
 
 ---
 
-### 🔥 [n8n-news-digest](https://github.com/ambrose-kutti/python-data-tool) 
+### 🔥 [n8n-news-digest](https://github.com/ambrose-kutti/n8n-news-digest) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=python-data-tool&theme=tokyonight)](https://github.com/ambrose-kutti/python-data-tool)
 
 **Tech Stack:** Python • Pandas • Matplotlib
-**Status:** 🚧 In Development | ⭐ 3+ Stars | 🍴 1+ Forks
 *An academic project exploring basic data manipulation and visualization using Python libraries.*
 
 ---
