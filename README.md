@@ -93,9 +93,9 @@ problem-solving approaches*
 ---
 
 ### 🔥 [n8n-news-digest](https://github.com/ambrose-kutti/n8n-news-digest) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=python-data-tool&theme=tokyonight)](https://github.com/ambrose-kutti/python-data-tool)
 
 **Tech Stack:** • n8n • RSS • Gmail • JSON
+
 *Automated daily news digest workflow built with n8n, integrating News RSS and Gmail.*
 
 ---
