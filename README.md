@@ -95,8 +95,8 @@ problem-solving approaches*
 ### 🔥 [n8n-news-digest](https://github.com/ambrose-kutti/n8n-news-digest) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=python-data-tool&theme=tokyonight)](https://github.com/ambrose-kutti/python-data-tool)
 
-**Tech Stack:** Python • Pandas • Matplotlib
-*An academic project exploring basic data manipulation and visualization using Python libraries.*
+**Tech Stack:** • n8n • RSS • Gmail • JSON
+**
 
 ---
 
@@ -104,7 +104,6 @@ problem-solving approaches*
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=cli-todo-app&theme=tokyonight)](https://github.com/ambrose-kutti/cli-todo-app)
 
 **Tech Stack:** Java • Command Line Interface
-**Status:** ✅ Complete | ⭐ 7+ Stars | 🍴 3+ Forks
 *A console-based To-Do application built in Java, showcasing object-oriented programming concepts.*
 
 </div>
