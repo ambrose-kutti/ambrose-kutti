@@ -134,7 +134,6 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 ## 🎯 My Aspirations
 -   🚀 Contribute meaningfully to 5+ open source projects this year
 -   📚 Deepen my understanding of cloud architecture and services
--   🌟 Build a full-stack application with a modern framework (React/Vue)
 -   📝 Start writing technical blogs about my learning journey
 
 ---
