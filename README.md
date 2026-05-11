@@ -100,11 +100,11 @@ problem-solving approaches*
 
 ---
 
-### ⚡ [Simple To-Do App (CLI)](https://github.com/ambrose-kutti/cli-todo-app) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=cli-todo-app&theme=tokyonight)](https://github.com/ambrose-kutti/cli-todo-app)
+### ⚡ [Two-way-RAG](https://github.com/ambrose-kutti/Two-way-RAG) 
 
-**Tech Stack:** Java • Command Line Interface
-*A console-based To-Do application built in Java, showcasing object-oriented programming concepts.*
+**Tech Stack:** • Python • FastAPI • LangChain • Ollama • gTTS • FAISS • Hugging Face
+
+**
 
 </div>
 
