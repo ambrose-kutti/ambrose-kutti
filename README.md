@@ -104,7 +104,7 @@ problem-solving approaches*
 
 **Tech Stack:** • Python • FastAPI • LangChain • Ollama • gTTS • FAISS • Hugging Face
 
-**
+*Two-way-RAG is a voice and Text Based-interactive Retrieval-Augmented Generation (RAG) system that transforms your local documents into a conversational knowledge base and answers to the queries.*
 
 </div>
 
