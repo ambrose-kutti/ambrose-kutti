@@ -100,7 +100,7 @@ problem-solving approaches*
 
 ---
 
-### ⚡ [Simple To-Do App (CLI)](https://github.com/ambrose-kutti/cli-todo-app) <!-- TODO: Replace with actual project -->
+### ⚡ [Simple To-Do App (CLI)](https://github.com/ambrose-kutti/cli-todo-app) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ambrose-kutti&repo=cli-todo-app&theme=tokyonight)](https://github.com/ambrose-kutti/cli-todo-app)
 
 **Tech Stack:** Java • Command Line Interface
