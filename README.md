@@ -126,10 +126,10 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 ---
 
 ## 🎓 Learning & Certifications
--   📚 Currently focused on completing advanced data structures & algorithms course
+-   📚 Currently focused on completing advanced ML Cocepts and Algorithms
 -   🏆 Actively working towards **AWS Cloud Practitioner** certification
 -   📜 Exploring **Google's Professional Data Engineer** learning path
--   🥇 Completed multiple HackerRank challenges in Python & Java
+
 
 ## 🎯 My Aspirations
 -   🚀 Contribute meaningfully to 5+ open source projects this year
