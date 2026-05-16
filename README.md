@@ -125,10 +125,14 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 ---
 
-## 🎓 Learning & Certifications
--   📚 Currently focused on completing advanced ML Cocepts and Algorithms
--   🏆 Actively working towards **AWS Cloud Practitioner** certification
--   📜 Exploring **Google's Professional Data Engineer** learning path
+## 🗨️ Contributing
+
+Thanks for your interest! If you'd like to collaborate or contribute to any repo linked here:
+
+- Open an issue to propose changes or start a discussion.
+- Fork the repository, create a feature branch, and submit a pull request.
+
+If you want to collaborate on research or projects, please contact me via LinkedIn or email.
 
 
 ## 🎯 My Aspirations
