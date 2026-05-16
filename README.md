@@ -139,4 +139,3 @@ If you want to collaborate on research or projects, please contact me via Linked
 -   📚 Deepen my understanding of cloud architecture and services
 -   📝 Start writing technical blogs about my learning journey
 
----
