@@ -141,8 +141,3 @@ If you want to collaborate on research or projects, please contact me via Linked
 -   📝 Start writing technical blogs about my learning journey
 
 ---
-
-
-  
-<sub>⭐ Feel free to star any repositories you find interesting!</sub>
-</div>
