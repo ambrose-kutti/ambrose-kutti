@@ -1,14 +1,13 @@
 
 # Hi there! 👾 I'm Ambrose
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Software+Engineer;Web+Development+Enthusiast;Always+Learning+New+Things;Building+and+Exploring)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Always+Learning+New+Things;Building+and+Exploring" alt="Typing SVG" /></a>
 ---
 
 ## 👨‍💻 About Me
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ambrose-kutti&color=blue&style=for-the-badge&label=Profile+Views"/>
 
 
 
