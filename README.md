@@ -142,7 +142,7 @@ If you want to collaborate on research or projects, please contact me via Linked
 
 ---
 
- ## 🚀 "Code is poetry, and every commit tells a story"
+
   
 <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
