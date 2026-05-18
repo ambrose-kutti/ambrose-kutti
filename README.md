@@ -127,11 +127,6 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 ## 🗨️ Contributing
 
 Thanks for your interest! If you'd like to collaborate or contribute to any repo linked here:
-
 - Open an issue to propose changes or start a discussion.
 - Fork the repository, create a feature branch, and submit a pull request.
-
 If you want to collaborate on research or projects, please contact me via LinkedIn or email.
-
-
-## 🎯 My Aspirations
