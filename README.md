@@ -136,5 +136,3 @@ If you want to collaborate on research or projects, please contact me via Linked
 
 ## 🎯 My Aspirations
 -   🚀 Contribute meaningfully to 5+ open source projects this year
--   📚 Deepen my understanding of cloud architecture and services
-
