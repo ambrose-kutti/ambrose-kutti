@@ -1,6 +1,6 @@
 # Hi there! 👾 I'm Ambrose
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Always+Learning+New+Things;Building+and+Exploring" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer(AI/ML,GenAI);Always+Learning+New+Things;Building+and+Exploring" alt="Typing SVG" /></a>
 ---
 
 ## 👨‍💻 About Me
