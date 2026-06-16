@@ -75,7 +75,7 @@ problem-solving approaches*
 ![Postman](https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-6A1B9A?style=for-the-badge&logo=replit&logoColor=white)
-![JupyterNotebook](https://img.shields.io/badge/jupyternotebook-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
